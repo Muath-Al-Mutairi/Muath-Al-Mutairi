@@ -1,15 +1,15 @@
 # Muath Al-Mutairi
 
-I’m interested in artificial intelligence and using technology to solve practical problems. I share selected projects here.
+I’m interested in artificial intelligence and practical applications of technology. I share selected projects here.
 
-## Featured project
+## نبذة عني
 
-**OmniCore · Wearable Fall Detection**
+أنا معاذ المطيري. أهتم بالذكاء الاصطناعي وتطبيقات التقنية في حل المشكلات العملية، وأشارك هنا بعض مشاريعي.
 
-A Samsung Innovation Campus team capstone that explores how wearable motion sensors can help detect falls.
+## Selected project · مشروع مختار
 
-[Explore the OmniCore project overview](https://github.com/Muath-Al-Mutairi/OmniCore-Fall-Detection)
+**[OmniCore · Wearable Fall Detection](https://github.com/Muath-Al-Mutairi/OmniCore-Fall-Detection)**
 
-## نبذة بالعربي
+A team capstone at Samsung Innovation Campus that explores fall detection using data from wearable motion sensors.
 
-أنا معاذ المطيري. أهتم بالذكاء الاصطناعي واستخدام التقنية لحل المشكلات العملية، وأشارك هنا بعض مشاريعي.
+مشروع جماعي ضمن برنامج Samsung Innovation Campus يدرس إمكانية رصد السقوط من قراءات مستشعرات الحركة القابلة للارتداء.
