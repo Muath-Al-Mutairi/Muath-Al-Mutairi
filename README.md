@@ -2,6 +2,8 @@
 
 I’m interested in artificial intelligence and practical applications of technology. I share selected projects here.
 
+[Personal website · الموقع الشخصي](https://muath-al-mutairi.github.io/)
+
 ## نبذة عني
 
 أنا معاذ المطيري. أهتم بالذكاء الاصطناعي وتطبيقات التقنية في حل المشكلات العملية، وأشارك هنا بعض مشاريعي.
